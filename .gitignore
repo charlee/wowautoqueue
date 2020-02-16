@@ -3,3 +3,4 @@ __pycache__/
 .vscode/
 output/
 *.au3
+*.sw*
