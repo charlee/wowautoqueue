@@ -1,0 +1,3 @@
+auto-py-to-exe==2.6.6
+PyAutoGUI==0.9.48
+PyQt5==5.14.1
